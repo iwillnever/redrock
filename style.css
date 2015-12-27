@@ -1,0 +1,101 @@
+h1{
+	font-family:"微软雅黑";
+	text-align:center;
+	
+}
+.website{
+    font-family:"微软雅黑";
+	text-align:center;
+}
+.website a{
+	font-size:12pt;
+	text-decoration:none;
+	display:block;
+	background-color:black;
+	color:black;
+	width:140px;
+	height:60px;
+}
+.website h3{
+	text-align:left;
+	margin-left:100px;
+}
+.manage a{
+    background-color:lightcoral;
+	float:left;
+	width:140px;
+	height:60px;
+	text-align:center;
+	text-decoration:none;
+	font-size:15pt;
+	font-weight:500;
+	color:white;
+	display:none;
+	line-height:50px;
+	font-family:"微软雅黑";
+	display:block;
+	margin-left: 180px;
+	margin-bottom: 20px;
+	order-radius:5px;
+}
+.campus a{
+	background-color:wheat;
+	float:left;
+	width:140px;
+	height:60px;
+	text-align:center;
+	text-decoration:none;
+	font-size:15pt;
+	font-weight:500;
+	color:black;
+	display:block;
+	line-height:60px;
+	font-family:"微软雅黑";
+	display:block;
+	margin-left: 180px;
+	margin-bottom: 20px;
+}
+.campus a:hover{
+	color:white;
+	background-color:black;
+}
+.recreation a{
+	width:140px;
+	height:60px;
+	text-align:center;
+	text-decoration:none;
+	font-family:"微软雅黑";
+	font-size:15pt;
+	font-weight:600;
+	display:block;
+	color:white;
+	line-height:60px;
+	background-color:plum;
+	margin-bottom:20px;
+	margin-left:180px;
+	float:left;
+}
+.recreation a:hover{
+	color:white;
+	background-color:black;
+}
+.study a{
+	width:140px;
+	height:60px;
+	text-align:center;
+	text-decoration:none;
+	font-family:"微软雅黑";
+	font-size:13pt;
+	font-weight:600;
+	background-color:lavender;
+	color:gray;
+	float:left;
+	display:block;
+	margin-bottom:20px;
+	margin-left:180px;
+	line-height:60px;
+}
+.study a:hover{
+	color:white;
+	background-color:black;
+}
